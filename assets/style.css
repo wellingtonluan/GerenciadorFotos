@@ -1,0 +1,143 @@
+body{
+    max-width: 390px;
+    max-height: 844px;
+    display: grid;
+    font-family: "Alumni Sans";
+    background-color: #393939;
+    color: white;
+}
+
+h1{
+    font-size: bold 40px;
+}
+
+h3{
+    font-size: medium 45px;
+}
+
+.Bemvindo h1{
+    color: #FFF;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Bemvindo h3{
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.Profile{
+    display: inline-flex;
+}
+
+.Profile img{
+    width: 53px;
+    height: 55px;
+    border-radius: 55px;
+}
+
+.Descricao_usuario a{
+    text-decoration: none;
+    color: #FFF;
+    font-family: "Alumni Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.profissao{
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 16px;
+  
+}
+
+.titulo{
+color: #D4D2D2;
+font-family: "Alumni Sans";
+font-size: 70px;
+font-style: normal;
+font-weight: 400;
+line-height: 84px;
+text-align: center;
+}
+
+.Principal{
+    padding: 0px 24px 10px 24px;
+}
+
+.Principal img{
+    width: 367px;
+    height: 317px;
+    border-radius: 6px;
+}
+
+.cards {
+    width: 133px;
+    height: 131px;
+/* superior | direita | inferior | esquerda */
+    padding: 0px 24px 0px 16px;
+    display: inline-flex;
+}
+
+.cards img{
+    border-radius: 7px;
+    width: 117px;
+    margin-left: 8px;
+    height: 131px;
+}
+
+.teste{
+    background-color: #474141;
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    width: 117px;
+    height: 50px;
+    position: relative;
+    box-sizing: border-box;
+    margin: -60px 0px 40px 8px; 
+
+}
+
+.cards a{
+    font-size: 24px;
+    padding: 10px;
+    font-weight: 600;
+    align-items: center;
+    text-decoration: none;
+    color:#D4D2D2;
+}
+
+.footer{
+    padding: 10px;
+    background-color: #3044f5;
+    border-radius: 6px;
+    width: 334px;
+    margin-top: 68px;
+    text-align: center;
+    height: 50px;
+    margin-left: 28px;
+    position: relative;
+
+    
+}
+
+.footer a{
+    text-decoration: none;
+    position: absolute;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'AlumniSans-Bold', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 0px 0px -67px; 
+    }
+    
